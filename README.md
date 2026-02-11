@@ -55,9 +55,30 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
+### :fire: My Projects :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krima222&theme=dark)](https://git.io/streak-stats)
+#### Сanvas-designer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krima222)](https://github.com/anuraghazra/github-readme-stats)
+This application is built using **Fabric.js** and **React** to create an interactive editor that lets users add elements to a canvas, including text, SVG shapes, and images uploaded from their computer.
+
+<a href="https://64b7e52596176610b33307c2--earnest-treacle-0b6ec7.netlify.app/">
+    Link to a working demo
+</a>
+
+#### Personal-account
+
+A seller dashboard for a marketplace, where users can manage their listings and orders.
+
+<a href="https://github.com/Krima222/personal-account">
+    Link to the repository
+</a>
+
+
+#### Movie-search-platform
+
+A platform for fast search across movies and TV series from the Kinopoisk service.
+
+<a href="https://github.com/Krima222/movie-search-platform">
+    Link to the repository
+</a>
 
